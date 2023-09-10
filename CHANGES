@@ -1,0 +1,27 @@
+nrrddate v.0.0.4
+2022-06-13
+
+- BUGFIX: better handling of Google ICS files with empty fields (e.g., LOCATION).
+
+--------------------------------------------------------------------------------
+
+nrrddate v.0.0.3
+2022-06-05
+
+- BUGFIX: error importing an ICS file with no attendees listed.
+
+--------------------------------------------------------------------------------
+
+nrrddate v.0.0.2
+2022-01-03
+
+- Added CHANGES file.
+- Changes to Makefile to include more documentation files.
+
+--------------------------------------------------------------------------------
+
+nrrddate v.0.0.1
+2021-12-28
+
+- initial release
+
